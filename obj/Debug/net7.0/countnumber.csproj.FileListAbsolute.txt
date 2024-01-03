@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/countnumber/bin/Debug/net7.0/countnumber
+/Users/macos/Desktop/Operator/countnumber/bin/Debug/net7.0/countnumber.deps.json
+/Users/macos/Desktop/Operator/countnumber/bin/Debug/net7.0/countnumber.runtimeconfig.json
+/Users/macos/Desktop/Operator/countnumber/bin/Debug/net7.0/countnumber.dll
+/Users/macos/Desktop/Operator/countnumber/bin/Debug/net7.0/countnumber.pdb
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.dll
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/refint/countnumber.dll
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.pdb
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/countnumber.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/countnumber/obj/Debug/net7.0/ref/countnumber.dll
